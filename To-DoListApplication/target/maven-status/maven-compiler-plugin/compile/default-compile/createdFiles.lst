@@ -1,0 +1,6 @@
+com\mycompany\to\dolistapplication\Task.class
+com\mycompany\to\dolistapplication\TaskManager.class
+com\mycompany\to\dolistapplication\ToDoException.class
+com\mycompany\to\dolistapplication\ToDoGUI.class
+com\mycompany\to\dolistapplication\ToDoListApplication.class
+com\mycompany\to\dolistapplication\LoginGUI.class
